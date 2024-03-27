@@ -20,9 +20,10 @@ public class ExComposto {
 			
 		}else {
 			System.out.println("O número é negativo");
-			
+		
+			ler.close();
 		}
-		ler.close();	
+			
 
 	}
 

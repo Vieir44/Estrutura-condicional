@@ -28,6 +28,7 @@ public class Diasemana {
 			System.out.println("O número corresponde a domingo");
 		}else {
 			System.out.println("Dia inválido");
+		ler.close();
 		}
 			
 		}

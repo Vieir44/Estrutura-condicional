@@ -27,6 +27,8 @@ public class Notamed {
 		}
 		else {
 			System.out.println("A média de Pedrinho é: " + media + " Sendo uma nota reprovada");
+		
+		ler.close();
 		}
 
 	}
